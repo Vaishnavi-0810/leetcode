@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vaishnavi-0810/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi-0810/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vaishnavi-0810/leetcode/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Vaishnavi-0810/leetcode/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Vaishnavi-0810/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
